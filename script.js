@@ -23,5 +23,5 @@ function mandaMensagem() {
   console.log('Solicitação recebida!');
 }
 
-setTimeout(mandaMensagem, 5000); // isso é um callback
+setTimeout(mandaMensagem, 5000); // isso é um callback (basicamente uma função que é passada como argumento para outra função)
 console.log('Tchau, Tchau!');
