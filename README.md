@@ -15,6 +15,8 @@ uma mensagem de 'CEP inválido. Tente novamente.' é exibida.
 
 ## 📁 Acesso ao projeto
 
+[Versão Final do projeto JS_ConsumindoDadosAPI](https://muniz94.github.io/JS_ConsumindoDadosAPI/)
+
 Neste repositório está todo o conteúdo do projeto.
 
 ## ❓ Abrir e rodar o projeto
