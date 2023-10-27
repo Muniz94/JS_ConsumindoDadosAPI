@@ -9,6 +9,16 @@ Através da API ViaCEP e JavaScript Assíncrono usando promisses, é possível t
 uma mensagem de 'CEP inválido. Tente novamente.' é exibida.
 
 ![Gif da aplicação rodando](https://github.com/Muniz94/JS_ConsumindoDadosAPI/assets/145066504/b834c7b0-01d2-4365-b462-8efa6a76f1bc)
+# ✔️ Técnicas e tecnologias utilizadas
+- CSS e HTML: Não foram o foco no desenvolvimento do projeto, por isso o material já estava feito nessa parte.
+- JavaScript: Através do JavaScript foi possível usar o Async/Await e o try/catch para tratar os erros.
 
+## 📁 Acesso ao projeto
+
+Neste repositório está todo o conteúdo do projeto.
+
+## ❓ Abrir e rodar o projeto
+
+Para iniciar o projeto, basta abrir o arquivo `index.html` no navegador.
 
 
